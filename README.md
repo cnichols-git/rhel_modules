@@ -1,6 +1,6 @@
 # rhel_modules
 
-##Redhat 8 has implemented something called modules
+## Redhat 8 has implemented something called modules
 
 I struggled to get httpd installed on a developer RHEL 8 subscriprion and had to use the following to get the software installed
 
